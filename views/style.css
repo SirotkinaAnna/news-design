@@ -1,0 +1,120 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #fefdf9;
+    /* border: 3px solid red; */
+    width: 100%;
+}
+
+.background-my {
+
+    padding-right: 140px;
+    padding-left: 140px;
+
+}
+
+.imgInside img {
+    width: 35%;
+}
+
+
+#button:hover {
+    background-color: black;
+}
+
+div {
+    background-color: #fefdf9;
+    font-family: 'Inter', sans-serif;
+    /* border: 1px solid black; */
+}
+
+h2 {
+    color: #c7c4c9;
+
+}
+
+.navbar {
+    font-weight: 600;
+    margin-bottom: 40px;
+    background-color: #fefdf9;
+    margin-right: 0px;
+    padding-right: 0px;
+
+}
+
+.nav-link {
+    margin-left: 30px;
+
+}
+
+.myColor {
+    color: #77788f;
+}
+
+.navbar-nav a:hover,
+p a:hover {
+    color: #e9615f;
+    text-decoration: none;
+}
+
+#new,
+h4:hover,
+h4 a:hover {
+    color: #eaa956;
+    text-decoration: none;
+
+}
+
+p a {
+    color: #040413;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+h4 a {
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+.card {
+    border-radius: 0;
+    border: none;
+}
+
+@media(max-width:768px) {
+    .background-my {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+
+.mySize {
+    font-size: 60px;
+    color: #090819;
+}
+
+p {
+    font-size: 1rem;
+    font-family: 'Inter', sans-serif;
+
+}
+
+#button {
+    letter-spacing: 0.2rem;
+
+}
