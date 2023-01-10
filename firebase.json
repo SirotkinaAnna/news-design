@@ -5,15 +5,12 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-<<<<<<< HEAD
     ],
     "rewrites": [
       {
         "source": "**",
         "destination": "/index.html"
       }
-=======
->>>>>>> b4780934ab7fac85b814884f460a26eae09298a4
     ]
   }
 }
